@@ -1,0 +1,7 @@
+{
+  "name": "Example Mod",
+  "version": "1.0",
+  "author": "OSINT AI Team",
+  "description": "Пример мода, добавляющий команду example / Example mod adding 'example' command",
+  "commands": ["example"]
+}
