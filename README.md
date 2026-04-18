@@ -51,13 +51,6 @@ OSINT AI — мощная консольная утилита для OSINT, пе
 
 Для установки OSINT AI клонируйте репозиторий и установите зависимости:
 
-```bash
-git clone https://github.com/osint-ai/osint-ai.git
-cd osint-ai
-pip install -r requirements.txt
-python main.py
-```
-
 Сборка `.exe` (Windows):
 
 ```bash
